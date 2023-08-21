@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abel Ortiz\\desktop\\ASP_Blog\\ASP_Blog\\ASP_Blog.csproj": {}
+    "C:\\Users\\Abel Ortiz\\Desktop\\ASP_Blog\\ASP_Blog\\ASP_Blog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abel Ortiz\\desktop\\ASP_Blog\\ASP_Blog\\ASP_Blog.csproj": {
+    "C:\\Users\\Abel Ortiz\\Desktop\\ASP_Blog\\ASP_Blog\\ASP_Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abel Ortiz\\desktop\\ASP_Blog\\ASP_Blog\\ASP_Blog.csproj",
+        "projectUniqueName": "C:\\Users\\Abel Ortiz\\Desktop\\ASP_Blog\\ASP_Blog\\ASP_Blog.csproj",
         "projectName": "ASP_Blog",
-        "projectPath": "C:\\Users\\Abel Ortiz\\desktop\\ASP_Blog\\ASP_Blog\\ASP_Blog.csproj",
+        "projectPath": "C:\\Users\\Abel Ortiz\\Desktop\\ASP_Blog\\ASP_Blog\\ASP_Blog.csproj",
         "packagesPath": "C:\\Users\\Abel Ortiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abel Ortiz\\desktop\\ASP_Blog\\ASP_Blog\\obj\\",
+        "outputPath": "C:\\Users\\Abel Ortiz\\Desktop\\ASP_Blog\\ASP_Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abel Ortiz\\AppData\\Roaming\\NuGet\\NuGet.Config",

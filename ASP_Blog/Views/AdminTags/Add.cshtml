@@ -1,0 +1,26 @@
+﻿@model ASP_Blog.Models.ViewModels.AddTagRequest         //contacts model for sending data
+@{
+}
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <h1>Add new tag -admin only </h1>
+    </div>
+</div>
+
+<div class="container py-5">
+    <form method="post">
+        <div class="mb-3">
+            <label class="form-label">Name</label>
+            <input type="text" class="form-control" id="name" asp-for="name" />             <!-- asp-for sets data to methods in AddTagRequest-->
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Display Name</label>
+            <input type="text" class="form-control" id="displayName" asp-for="displayName" />
+        </div>
+        <div class="mb-3">
+            <button type="submit" class="btn main_green">Submit</button>
+        </div>
+    </form>
+</div>
